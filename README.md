@@ -1,3 +1,3 @@
 # funnySeen
 
-*** here I will copy something funny from others ***
+**here I will copy something funny from others**
